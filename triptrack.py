@@ -11,7 +11,7 @@ st.write("Tracking expenses for: **Mahi, Tinu, and Manya**")
 
 # --- 2. INPUT BUTTON ---
 # Update this with your new Trip Google Form link
-form_url = "https://docs.google.com/forms/d/e/1FAIpQLSeS85pITRhXgyI5xvfL5AeJsz-FAeB_8gI50CClZoYW6o4fnw/viewform?usp=publish-editor"
+form_url = "https://docs.google.com/spreadsheets/d/1Uss18LdeI-OChCmup49UqiwvoANgzCm6h3zCrewmBYw/edit?usp=sharing"
 st.link_button("➕ Log Trip Expense", form_url, type="primary", use_container_width=True)
 
 st.divider()
